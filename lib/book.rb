@@ -24,8 +24,8 @@ class Book
     @title 
   end 
 end 
-puts ("This book is called missing")
-
+puts ("This book is called savy")
+savy_title 
     
   
   
