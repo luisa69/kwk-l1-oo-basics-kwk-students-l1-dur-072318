@@ -25,7 +25,7 @@ class Book
   end 
 end 
 puts ("This book is called savy")
-savy_title = Book.new 
+savy_title = Book.new ("svay","")
     
   
   
