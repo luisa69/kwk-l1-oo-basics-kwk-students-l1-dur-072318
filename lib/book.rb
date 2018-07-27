@@ -20,7 +20,8 @@ class Book
     @page_count
   end 
   
-  def title= ()
+  def title= (new_tilte)
+    @
     
   
   
