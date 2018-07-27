@@ -21,7 +21,8 @@ class Book
   end 
   
   def title= (new_tilte)
-    @
+    @title 
+  end 
     
   
   
