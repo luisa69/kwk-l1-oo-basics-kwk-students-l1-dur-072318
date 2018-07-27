@@ -24,6 +24,8 @@ class Book
     @title 
   end 
 end 
+puts ("This book is called missing")
+
     
   
   
